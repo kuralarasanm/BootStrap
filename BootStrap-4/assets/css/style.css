@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(25, 120, 202);
+}
+div{
+    background-color: rgb(212, 221, 206);
+    border: 2px solid white;
+    border-color: orange;
+    margin-top: 10px;
+}
+.p50{
+    padding: 50px;
+}
+.grid-layouts.container{
+    border: 2px solid red;
+}
+.bg{
+    padding: 10px;
+    background-color: #18d121ba;
+    border: 2px solid white;
+    border-color: cadetblue;
+    
+}
+.height-500{
+    min-height: 500px;
+}
